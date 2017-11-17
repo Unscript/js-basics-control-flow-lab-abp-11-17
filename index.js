@@ -19,3 +19,10 @@ else {
   return "No go."
 }
 }
+
+function switchOnCharmFromTip(tip){
+  if (tip=== "generous"){
+    return "Thank you so much."
+  }
+  return (tip === "not as generous") ? "Thank you." : "Bye"
+}
