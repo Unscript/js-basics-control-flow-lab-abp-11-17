@@ -1,5 +1,5 @@
 // Write your code in this file!
-let scuberGreetingForFeet = 199;
+let scuberGreetingForFeet
 let ternaryCheckCity
 let switchOnCharmFromTip
 function scuberGreetingForFeet(distance){
